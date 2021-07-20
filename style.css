@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.top{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+  overflow-x: hidden;
+  overflow: hidden;
+  padding-right: 4rem;
+  margin: 0;
+}
+
+.n{
+  width: 100%;
+}
+
+.intro{
+  padding: 20px  20px  20px 100px;
+}
+
+.head{
+  position: relative;
+  left: 600px;
+  display: inline-block;
+}
+
+.link{
+  padding-right: 100px;
+  padding-top: 20px;
+}
+
+#home{
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.contact_div{
+  width: 100%;
+  background-color: rgb(7, 7, 41);
+  text-align: center;
+  color: white;
+}
+
+.contact{
+  padding: 25px;
+  font-family: "Comic Sans Ms";
+}
+
+.con{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.tab{
+  border: white 2px solid;
+  padding: 50px;
+  width: 50px 50px;
+}
+
